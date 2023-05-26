@@ -1,4 +1,5 @@
 # Mi Primer README
 
 
-mi primer repositorio en GitHub freeCodeCamp2
+mi primer repositorio en GitHub freeCodeCamp
+
